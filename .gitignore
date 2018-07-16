@@ -1,0 +1,4 @@
+.DS_Store
+/nugo/__pycache__
+/nugo/spiders/__pycache__
+/nugo/data.csv
