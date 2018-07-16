@@ -1,12 +1,14 @@
 # homework-crawler
 Web crawler to get information about the progress of my homeworks of the moodle2 platform.
 
-### Technologies you will need.
+Technologies you will need.
+----
 homework-crawler requires:
 - [Python](https://www.python.org/downloads/release/python-366/) - Python is a programming language that lets you work quickly and integrate systems more effectively.
 - [Scrapy](https://scrapy.org/) - An open source and collaborative framework for extracting the data you need from websites.
 
-# Starting the web crawler
+Starting the web crawler
+----
 [Python](https://www.python.org/downloads/release/python-366/) 3.6.6 + to run.
 Download the project and start the web crawler.
 Change credentials for your own credentials.
@@ -18,7 +20,6 @@ $ scrapy crawl moodle2 -o data.csv -t csv
 
 License
 ----
-
 MIT
 
 
