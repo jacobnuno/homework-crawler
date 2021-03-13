@@ -1,5 +1,5 @@
 # homework-crawler
-Web crawler to get information about the progress of my homeworks of the moodle2 platform.
+Web crawler to get information about the progress of my homeworks on the moodle2 platform.
 
 Technologies you will need.
 ----
